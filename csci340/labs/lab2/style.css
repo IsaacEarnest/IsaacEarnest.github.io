@@ -28,38 +28,3 @@ body {
 .contact-btn a:active {
  top: 2px;
 }
-.package-description{
-  border: 1px solid #000;
-  margin: 2px;
-  text-align: center;
-  padding: 30px;
-  .slide1{
-    background-image: url('https://pixabay.com/photos/box-gift-present-xmas-celebrate-2953722/');
-    height: 500px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-  }
-  .slide2{
-    background-image: url('bkgrnd2.png');
-    height: 500px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-  }
-  .slide3{
-    background-image: url('bkgrnd3.png');
-    height: 500px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-  }
-  .carousel-caption h1{
-    font-size: 5.4em;
-    font-family: 'Pacifico', cursive;
-    padding-bottom: .4em;
-  }
-  .carousel-caption p{
-    font-size: 2em;
-  }
-}
