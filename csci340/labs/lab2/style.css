@@ -24,3 +24,9 @@ body {
   border: 1px solid #204156;
   float: right;
 }
+.package-description{
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 30px;
+}
