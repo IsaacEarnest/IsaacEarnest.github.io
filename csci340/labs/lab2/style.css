@@ -77,3 +77,13 @@ header p {
   margin: 0 0 20px;
   color: #fff;
 }
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
