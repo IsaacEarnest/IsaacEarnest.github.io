@@ -5,7 +5,11 @@ html, body {
   font-weight: 300;
   line-height: 1.5;
 }
-
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
 body {
   font-family: 'Lato', sans-serif;
   background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
