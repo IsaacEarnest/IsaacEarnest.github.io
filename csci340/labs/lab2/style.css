@@ -18,6 +18,9 @@ body {
     text-align:center;
     font-size: 40px;
  }
+ .package-description{
+   display: center;
+ }
 .contact-btn a {
   margin-right: 30px;
   padding: 8px 18px;
