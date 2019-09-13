@@ -19,7 +19,7 @@ body {
     font-size: 40px;
  }
  .package-description{
-   display: center;
+   justify-content:center;
  }
 .contact-btn a {
   margin-right: 30px;
